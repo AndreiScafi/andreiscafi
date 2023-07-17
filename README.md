@@ -1,9 +1,6 @@
 ## Bem-vindo(a) ao perfil do Andrei Scafi de Vasconcelos 😁
 
  <div>
-  <!-- <a href="https://github.com/andreiscafi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreiscafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiscafi&layout=compact&langs_count=6&theme=tokyonight"/>-->
     <a href="https://github.com/andreiscafi"> 
      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreiscafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
      <img align="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreiscafi&theme=react&line_height=40"/> </a>
